@@ -16,6 +16,14 @@ Things you may want to cover:
 * Database initialization
 
 * How to run the test suite
+- rspec gem for testing
+- factory_girl for adding sample data
+- capybara for simulating a user's interaction with the app
+- poltergeist driver for JavaScript testing support
+- PhantomJS
+- headless required to support poltergeist
+- rails-controller-testing for testing requests and responses with the requests specs
+- database-cleaner to clean the test database after tests where JS has been executed
 
 * Services (job queues, cache servers, search engines, etc.)
 
