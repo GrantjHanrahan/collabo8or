@@ -71,3 +71,4 @@ gem 'pry-rails'
 gem 'devise'
 gem 'bootstrap_form'
 gem 'rails_12factor', group: :production
+gem 'faker'
