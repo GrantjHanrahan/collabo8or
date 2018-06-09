@@ -29,4 +29,6 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+* Progress
+- https://medium.freecodecamp.org/lets-create-an-intermediate-level-ruby-on-rails-application-d7c6e997c63f
+- Current: Single post - git checkout -b single_post - Show a single post
